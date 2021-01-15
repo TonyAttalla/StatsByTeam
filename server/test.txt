@@ -1,0 +1,18 @@
+    No.                   Player Pos    Ht   Wt          Birth Date Unnamed: 6 Exp                  College
+0    42              Maxi Kleber   C  6-10  240    January 29, 1992         de   2                      NaN
+1    55             Delon Wright  SG   6-5  183      April 26, 1992         us   4                     Utah
+2    10      Dorian Finney-Smith  PF   6-7  220         May 4, 1993         us   3                  Florida
+3    11         Tim Hardaway Jr.  SG   6-5  205      March 16, 1992         us   6                 Michigan
+4    30               Seth Curry  SG   6-2  185     August 23, 1990         us   5            Liberty, Duke
+5    44           Justin Jackson  PF   6-7  210      March 28, 1995         us   2                      UNC
+6    13            Jalen Brunson  PG   6-1  190     August 31, 1996         us   1                Villanova
+7    77              Luka Dončić  PG   6-7  218   February 28, 1999         si   1                      NaN
+8     6       Kristaps Porziņģis  PF   7-3  240      August 2, 1995         lv   3                      NaN
+9     7            Dwight Powell   C  6-10  240       July 20, 1991         ca   5                 Stanford
+10   51         Boban Marjanović   C   7-4  290     August 15, 1988         rs   4                      NaN
+11    5               J.J. Barea  PG  5-10  185       June 26, 1984         pr  13  Northeastern University
+12    1             Courtney Lee  SG   6-5  215     October 3, 1985         us  11         Western Kentucky
+13   33      Willie Cauley-Stein   C   7-0  240     August 18, 1993         us   4                 Kentucky
+14    9   Michael Kidd-Gilchrist  SF   6-6  232  September 26, 1993         us   7                 Kentucky
+15    3  Antonius Cleveland (TW)  SG   6-5  195    February 2, 1994         us   1        SE Missouri State
+16   23         Josh Reaves (TW)  SG   6-4  215        June 4, 1997         us   R               Penn State
